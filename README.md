@@ -9,4 +9,4 @@ Repository of assignments done as part of CSE-232 Computer Networks course offer
 
 3. A-3 Analysis of TCP variants using ns3
 
-4. A-4 Implementation of RIP using Bellman Ford, including Poisoned Reverse solution
+4. A-4 Implementation of RIP using Distance Vector Routing (Bellman Ford), including Poisoned Reverse solution
